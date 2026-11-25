@@ -168,4 +168,4 @@ O `tracert usjt.com.br` a partir do **PC14** mostra o caminho completo: gateway 
 
 Estudante de Análise e Desenvolvimento de Sistemas (USJT) | Suporte e Infraestrutura de TI
 
-[LinkedIn](www.linkedin.com/in/guricarte)
+[LinkedIn](https//www.linkedin.com/in/guricarte/)
