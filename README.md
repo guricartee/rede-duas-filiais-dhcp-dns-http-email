@@ -165,6 +165,7 @@ O `tracert usjt.com.br` a partir do **PC14** mostra o caminho completo: gateway 
 ## 👤 Autor
 
 **Gustavo Rodrigues Freitas Ricarte**
+
 Estudante de Análise e Desenvolvimento de Sistemas (USJT) | Suporte e Infraestrutura de TI
 
-[GitHub](https://github.com/guricartee) · [LinkedIn](<!-- ✏️ COMPLETAR: link do seu LinkedIn -->)
+[GitHub](https://github.com/guricartee) · [LinkedIn](www.linkedin.com/in/guricarte)
